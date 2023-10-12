@@ -1,0 +1,112 @@
+[INFO ] 2023-10-12 19:35:37.314 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.7.3.20230929[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-12 19:35:38.518 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2023-10-12 19:35:38.518 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-10-12 19:35:38.725 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-10-12 19:35:39.181 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2023-10-12 19:35:39.343 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.346 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2023-10-12 19:35:39.354 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.354 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.355 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.355 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.355 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.355 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.355 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.356 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.356 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.356 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.356 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.357 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.357 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.357 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.364 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.364 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.364 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.364 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.371 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[INFO ] 2023-10-12 19:35:39.378 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[INFO ] 2023-10-12 19:35:39.379 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.379 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.380 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.380 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.380 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.380 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.381 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.381 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.381 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.382 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.382 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.382 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.383 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.383 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.383 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.383 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.384 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.384 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.386 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.386 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.386 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.386 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.389 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2023-10-12 19:35:39.389 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.391 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.392 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.392 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.392 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-12 19:35:39.402 [main] Utils - [TestNG] Running:
+  C:\Users\khaled\Downloads\MobileShaft1\testng.xml
+
+[INFO ] 2023-10-12 19:35:39.442 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-12 19:35:39.581 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-10-12 19:35:39.587 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-10-12 19:35:39.681 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+[INFO ] 2023-10-12 19:35:39.738 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                  Test Method: 'org.example.Runner.openBrowser'                                                  
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-12 19:35:39.749 [main] ReportManager - Setting "mobile_automationName" property with "UIAutomator2".
+[INFO ] 2023-10-12 19:35:39.752 [main] ReportManager - Setting "targetOperatingSystem" property with "Android".
+[INFO ] 2023-10-12 19:35:39.753 [main] ReportManager - Setting "executionAddress" property with "localhost:4723".
+[INFO ] 2023-10-12 19:35:39.757 [main] ReportManager - Setting "browserStack.deviceName" property with "DeviceOne".
+[INFO ] 2023-10-12 19:35:39.758 [main] ReportManager - Setting "mobile_app" property with "src/test/resources/testDataFiles/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk".
+[INFO ] 2023-10-12 19:35:39.768 [main] ReportManager - Setting "autoMaximizeBrowserWindow" property with "false".
+[INFO ] 2023-10-12 19:35:39.770 [main] ReportManager - Setting "mobile_platformName" property with "android".
+[INFO ] 2023-10-12 19:35:39.788 [main] ReportManager - Attempting to run remotely on: "Android | http://localhost:4723/".
+[INFO ] 2023-10-12 19:35:39.791 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk"".
+[INFO ] 2023-10-12 19:35:39.791 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk"".
+[INFO ] 2023-10-12 19:35:39.803 [main] ReportManager - Capabilities {appium:allowTestPackages: true, appium:app: C:\Users\khaled\Downloads\M..., appium:appWaitActivity: *, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:clearDeviceLogsOnStart: true, appium:disableWindowAnimation: true, appium:enableWebviewDetailsCollection: true, appium:enforceAppInstall: false, appium:forceAppLaunch: true, appium:fullReset: true, appium:ignoreHiddenApiPolicyError: true, appium:isHeadless: true, appium:noSign: true, appium:platformName: android, appium:printPageSourceOnFindFailure: true, appium:showChromedriverLog: true}
+[INFO ] 2023-10-12 19:35:39.810 [main] ReportManager - Attempting to instantiate remote driver instance for up to 10min.
+[INFO ] 2023-10-12 19:35:50.635 [main] ReportManager - Successfully instantiated remote driver instance.
+[INFO ] 2023-10-12 19:35:50.636 [main] ReportManager - Successfully Opened "Native android app".
+[INFO ] 2023-10-12 19:35:52.791 [main] ReportManager - Type "standard_user" into "By.xpath: //android.widget.EditText[@content-desc="test-Username"]".
+[INFO ] 2023-10-12 19:35:54.422 [main] ReportManager - Type "secret_sauce" into "By.xpath: //android.widget.EditText[@content-desc="test-Password"]".
+[INFO ] 2023-10-12 19:35:55.344 [main] ReportManager - Tap "LOGIN".
+[INFO ] 2023-10-12 19:35:57.045 [main] ReportManager - Tap "ADD TO CART".
+[INFO ] 2023-10-12 19:35:58.131 [main] ReportManager - Tap "By.xpath: //android.view.ViewGroup[@content-desc="test-Toggle"]/android.widget.ImageView".
+[INFO ] 2023-10-12 19:36:29.818 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: openBrowser'
+[INFO ] 2023-10-12 19:36:29.818 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                       Finished Execution of Test Method: 'org.example.Runner.openBrowser'                                       
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-12 19:36:29.930 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-12 19:36:29.931 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2023-10-12 19:36:29.932 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-10-12 19:36:29.932 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".
