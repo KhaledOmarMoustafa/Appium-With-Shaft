@@ -1,0 +1,12 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 6' test cases in the current suite                                        
+                                                Test Method: 'org.example.Runner.addItemsToCart'                                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Tap "ADD TO CART". @14-10-2023 14:09:49.0742 PM
+[ReportManager] Tap "By.xpath: //android.view.ViewGroup[@content-desc="test-Toggle"]/android.widget.ImageView". @14-10-2023 14:09:50.0786 PM
+[ReportManager] Tap "By.xpath: //android.view.ViewGroup[@content-desc="test-Modal Selector Button"]/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView". @14-10-2023 14:10:13.0435 PM
+[ReportManager] Tap "Price (low to high)". @14-10-2023 14:10:14.0769 PM
+[ReportManager] Tap "+". @14-10-2023 14:10:18.0604 PM
+[ReportManager] Tap "By.xpath: //android.view.ViewGroup[@content-desc="test-Cart"]/android.view.ViewGroup/android.widget.ImageView". @14-10-2023 14:10:19.0087 PM

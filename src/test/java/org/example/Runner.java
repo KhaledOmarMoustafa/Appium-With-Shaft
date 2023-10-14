@@ -1,87 +1,53 @@
 package org.example;
 
-import com.shaft.driver.SHAFT;
-import io.appium.java_client.AppiumDriver;
-import io.appium.java_client.PerformsTouchActions;
-import io.appium.java_client.TouchAction;
-import io.appium.java_client.android.AndroidDriver;
-import io.appium.java_client.android.options.UiAutomator2Options;
-import io.appium.java_client.remote.AutomationName;
-import io.appium.java_client.touch.offset.ElementOption;
-import io.appium.java_client.touch.offset.PointOption;
-import io.github.bonigarcia.wdm.WebDriverManager;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-import java.net.MalformedURLException;
-import java.net.URL;
-
 public class Runner {
+    private final PreRequisites pre;
+    private final Login l;
+    private final AddItemsToTheCart add;
+    private final EnterDetails enter;
+    private final CheckOut co;
+    private final LogOut lo;
 
-    static SHAFT.GUI.WebDriver driver;
-    @Test
-    public void openBrowser() throws MalformedURLException, InterruptedException {
-        //  WebDriverManager.chromedriver().setup();
-/*
-        UiAutomator2Options ai = new UiAutomator2Options().setUdid("emulator-5554");
-        ai.setCapability("appPackage","com.swaglabsmobileapp");
-        ai.setCapability("appActivity","com.swaglabsmobileapp.MainActivity");
-*/
+    public Runner() {
 
-
-
-        SHAFT.Properties.mobile.set().automationName(AutomationName.ANDROID_UIAUTOMATOR2);
-        SHAFT.Properties.platform.set().targetPlatform("Android");
-        SHAFT.Properties.platform.set().executionAddress("localhost:4723");
-        SHAFT.Properties.browserStack.set().deviceName("DeviceOne");
-        /*SHAFT.Properties.mobile.set().appPackage("io.appium.android.apis");
-        SHAFT.Properties.mobile.set().appActivity("io.appium.android.apis.ApiDemos");*/
-        SHAFT.Properties.mobile.set().app("src/test/resources/testDataFiles/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk");
-
-
-        driver = new SHAFT.GUI.WebDriver();
-        //  driver.browser().maximizeWindow();
-
-
-        By userName = By.xpath("//android.widget.EditText[@content-desc=\"test-Username\"]\n");
-        driver.element().type(userName,"standard_user");
-
-        By passWord = By.xpath("//android.widget.EditText[@content-desc=\"test-Password\"]\n");
-        driver.element().type(passWord,"secret_sauce");
-
-        By login = By.xpath("//android.view.ViewGroup[@content-desc=\"test-LOGIN\"]/android.widget.TextView\n");
-        driver.element().click(login);
-
-
-        By addFirstItem = By.xpath("(//android.view.ViewGroup[@content-desc=\"test-ADD TO CART\"])[2]/android.widget.TextView\n");
-        driver.element().click(addFirstItem);
-
-        By sort = By.xpath("//android.view.ViewGroup[@content-desc=\"test-Toggle\"]/android.widget.ImageView\n");
-        driver.element().click(sort);
-        Thread.sleep(2000);
-
-
-
-        By clickAndHoldItem = By.xpath("(//android.view.ViewGroup[@content-desc=\"test-Drag Handle\"])[3]/android.widget.TextView\n");
-        //casting the driver to AppiumDriver so i can use touchActions with it
-        AppiumDriver appiumDriver = (AppiumDriver) driver.getDriver();
-        int x = 1000; // X coordinate of the target location
-        int y = 300; // Y coordinate of the target location
-
-
-        // using TouchActions with AppiumDriver to Hold the item that i want to drag and then move it to specific coordinates and then release it
-        TouchAction touchAction = new TouchAction((PerformsTouchActions) appiumDriver);
-        touchAction.longPress(ElementOption.element(appiumDriver.findElement(clickAndHoldItem)))
-                .moveTo(PointOption.point(x, y))
-                .release()
-                .perform();
-
-
-        
-
-
-Thread.sleep(10000);
-
+        pre = new PreRequisites();
+        l = new Login();
+        add = new AddItemsToTheCart();
+        enter = new EnterDetails();
+        co = new CheckOut();
+        lo = new LogOut();
     }
+
+    @Test(priority = 1)
+    public void PreRequisites() {
+        pre.pre();
+    }
+
+    @Test(priority = 2)
+    public void EnterLoginDetails() {
+        l.login();
+    }
+
+    @Test(priority = 3)
+    public void addItemsToCart() throws InterruptedException {
+        add.addItems();
+    }
+
+    @Test(priority = 4)
+    public void EnterShippingDetails() throws InterruptedException {
+        enter.details();
+    }
+
+    @Test(priority = 5)
+    public void checkOutItems() {
+        co.checkOut();
+    }
+
+    @Test(priority = 6)
+    public void logOut() throws InterruptedException {
+        lo.logOut();
+    }
+
 }

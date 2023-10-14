@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content=
-            "width=device-width, initial-scale=1.0">
+    <meta content=
+            "width=device-width, initial-scale=1.0" name="viewport">
 
     <title>Execution Summary Report</title>
 
-    <link rel="stylesheet" type="text/css"
-          href="https://colorlib.com/etc/tb/Table_Fixed_Header/vendor/bootstrap/css/bootstrap.min.css">
+    <link href="https://colorlib.com/etc/tb/Table_Fixed_Header/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"
+          type="text/css">
     <br>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <style>
@@ -246,30 +246,33 @@
                         margin-right: 50px;
                     }
 
+
     </style>
 </head>
 
 <body>
 <center>
-	<a href="https://shafthq.github.io/" target="_blank"><img src="https://github.com/ShaftHQ/SHAFT_ENGINE/raw/main/src/main/resources/images/shaft.png" alt="SHAFT logo" height="100" id="logo"></a>
+    <a href="https://shafthq.github.io/" target="_blank"><img
+            alt="SHAFT logo" height="100"
+            id="logo" src="https://github.com/ShaftHQ/SHAFT_ENGINE/raw/main/src/main/resources/images/shaft.png"></a>
     <h1>Execution Summary Report</h1>
     <br>
     <div class="content">
-        <h2 style="clear:both; padding-top: 15px; margin-bottom: 3px">12/10/2023</h2>
-        <h5 style="clear:both; color:Grey">19:35:39 - 19:36:31 (51 sec, 819 millis) </h5>
+        <h2 style="clear:both; padding-top: 15px; margin-bottom: 3px">14/10/2023</h2>
+        <h5 style="clear:both; color:Grey">14:09:18 - 14:10:56 (01 min, 38 sec) </h5>
         <br>
-        <div style="border: 1px solid Grey" class="piechart"></div>
+        <div class="piechart" style="border: 1px solid Grey"></div>
         <br>
         <h2>100.00%</h2>
         <br><br>
-        <h3><b>Total Cases</b>:&nbsp1&nbsp&nbsp[
-            <font style="color:MediumSeaGreen;"><b>Passed:</b>&nbsp1</font>&nbsp|
+        <h3><b>Total Cases</b>:&nbsp6&nbsp&nbsp[
+            <font style="color:MediumSeaGreen;"><b>Passed:</b>&nbsp6</font>&nbsp|
             <font style="color:Tomato;"><b>Failed:</b>&nbsp0</font>&nbsp|
             <font style="color:Orange;"><b>Skipped:</b>&nbsp0</font>&nbsp]
         </h3>
         <br>
         <hr class="rounded1">
-         <h4><b>Total Validations</b>:&nbsp0&nbsp&nbsp[
+        <h4><b>Total Validations</b>:&nbsp0&nbsp&nbsp[
             <font style="color:MediumSeaGreen;"><b>Passed:</b>&nbsp0</font>&nbsp|
             <font style="color:Tomato;"><b>Failed:</b>&nbsp0</font>&nbsp]
         </h4>
@@ -288,46 +291,99 @@
         <hr class="rounded">
         <h4 style="display:inline;">Test Cases Details</h4>
         <div class="limiter">
-        <div class="container-table100">
-        <div class="wrap-table100">
-        <div class="table100 ver5 m-b-110">
-        <div class="table100-head">
-        <b>
-        	<input class="rcorner" id="search" type="text" placeholder="Search for test cases.. ">
-        </b>
-        <select id='searchDropDown'>
-            <option value="">Status</option>
-        	<option value='&#9989; PASSED'>&#9989; PASSED</option>
-        	<option value='&#10060; FAILED'>&#10060; FAILED</option>
-        	<option value='&#128679; SKIPPED'>&#128679; SKIPPED</option>
-        </select>
-        <br>
-        </div>
-        <div class="table100-body js-pscroll ps ps--active-y">
-        <table>
-        <thead>
-        <tr class="row100 head">
-        <th class="cell100 column1">Id</th>
-        <th class="cell100 column2">Suite</th>
-        <th class="cell100 column3">Name</th>
-        <th class="cell100 column4">Error</th>
-        <th class="cell100 column5">Status</th>
-        <th class="cell100 column6">Has issue</th>
-        </tr>
-        </thead>
-        <tbody id="table"><tr class="row100 body"><td class="cell100 column1">1</td><td class="cell100 column2">org.example.Runner</td><td class="cell100 column3">openBrowser</td><td class="cell100 column4"></td><td class="cell100 column5">&#9989; PASSED</td><td class="cell100 column6">No</td></tr></tbody>
-        </table>
-        <div class="ps__rail-x" style="left: 0px; bottom: 0px;"><div class="ps__thumb-x" tabindex="0" style="left: 0px; width: 0px;"></div></div></div>
-        <br>
-        </div>
-        </div>
-        </div>
-        <h6>Visit <a href="https://shafthq.github.io/" target="_blank">SHAFT's user guide</a> to learn more about the engine and its capabilities.<h6/>
+            <div class="container-table100">
+                <div class="wrap-table100">
+                    <div class="table100 ver5 m-b-110">
+                        <div class="table100-head">
+                            <b>
+                                <input class="rcorner" id="search" placeholder="Search for test cases.. " type="text">
+                            </b>
+                            <select id='searchDropDown'>
+                                <option value="">Status</option>
+                                <option value='&#9989; PASSED'>&#9989; PASSED</option>
+                                <option value='&#10060; FAILED'>&#10060; FAILED</option>
+                                <option value='&#128679; SKIPPED'>&#128679; SKIPPED</option>
+                            </select>
+                            <br>
+                        </div>
+                        <div class="table100-body js-pscroll ps ps--active-y">
+                            <table>
+                                <thead>
+                                <tr class="row100 head">
+                                    <th class="cell100 column1">Id</th>
+                                    <th class="cell100 column2">Suite</th>
+                                    <th class="cell100 column3">Name</th>
+                                    <th class="cell100 column4">Error</th>
+                                    <th class="cell100 column5">Status</th>
+                                    <th class="cell100 column6">Has issue</th>
+                                </tr>
+                                </thead>
+                                <tbody id="table">
+                                <tr class="row100 body">
+                                    <td class="cell100 column1">1</td>
+                                    <td class="cell100 column2">org.example.Runner</td>
+                                    <td class="cell100 column3">PreRequisites</td>
+                                    <td class="cell100 column4"></td>
+                                    <td class="cell100 column5">&#9989; PASSED</td>
+                                    <td class="cell100 column6">No</td>
+                                </tr>
+                                <tr class="row100 body">
+                                    <td class="cell100 column1">2</td>
+                                    <td class="cell100 column2">org.example.Runner</td>
+                                    <td class="cell100 column3">EnterLoginDetails</td>
+                                    <td class="cell100 column4"></td>
+                                    <td class="cell100 column5">&#9989; PASSED</td>
+                                    <td class="cell100 column6">No</td>
+                                </tr>
+                                <tr class="row100 body">
+                                    <td class="cell100 column1">3</td>
+                                    <td class="cell100 column2">org.example.Runner</td>
+                                    <td class="cell100 column3">addItemsToCart</td>
+                                    <td class="cell100 column4"></td>
+                                    <td class="cell100 column5">&#9989; PASSED</td>
+                                    <td class="cell100 column6">No</td>
+                                </tr>
+                                <tr class="row100 body">
+                                    <td class="cell100 column1">4</td>
+                                    <td class="cell100 column2">org.example.Runner</td>
+                                    <td class="cell100 column3">EnterShippingDetails</td>
+                                    <td class="cell100 column4"></td>
+                                    <td class="cell100 column5">&#9989; PASSED</td>
+                                    <td class="cell100 column6">No</td>
+                                </tr>
+                                <tr class="row100 body">
+                                    <td class="cell100 column1">5</td>
+                                    <td class="cell100 column2">org.example.Runner</td>
+                                    <td class="cell100 column3">checkOutItems</td>
+                                    <td class="cell100 column4"></td>
+                                    <td class="cell100 column5">&#9989; PASSED</td>
+                                    <td class="cell100 column6">No</td>
+                                </tr>
+                                <tr class="row100 body">
+                                    <td class="cell100 column1">6</td>
+                                    <td class="cell100 column2">org.example.Runner</td>
+                                    <td class="cell100 column3">logOut</td>
+                                    <td class="cell100 column4"></td>
+                                    <td class="cell100 column5">&#9989; PASSED</td>
+                                    <td class="cell100 column6">No</td>
+                                </tr>
+                                </tbody>
+                            </table>
+                            <div class="ps__rail-x" style="left: 0px; bottom: 0px;">
+                                <div class="ps__thumb-x" style="left: 0px; width: 0px;" tabindex="0"></div>
+                            </div>
+                        </div>
+                        <br>
+                    </div>
+                </div>
+            </div>
+            <h6>Visit <a href="https://shafthq.github.io/" target="_blank">SHAFT's user guide</a> to learn more about
+                the engine and its capabilities.<h6/>
         </div>
         <br><br>
     </div>
 
-        <script>
+    <script>
             $(document).ready(function() {
                 $("#search").on("keyup", function() {
                     var value = $(this).val().toLowerCase();
@@ -343,7 +399,8 @@
                     });
 				});
             });
-        </script>
+
+    </script>
 </center>
 </body>
 </html>

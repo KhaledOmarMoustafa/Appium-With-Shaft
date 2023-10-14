@@ -1,0 +1,98 @@
+{
+  "uuid": "d53cd636-e44d-4f13-b4fb-bd264a5c6464",
+  "historyId": "7587b4de57db4bacbf2b7b5518f0f214",
+  "fullName": "org.example.Runner.logOut",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "testClass",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "testMethod",
+      "value": "logOut"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "C:\\Users\\khaled\\Downloads\\MobileShaft1"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "host",
+      "value": "Bugz"
+    },
+    {
+      "name": "thread",
+      "value": "8856@Bugz.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "logOut",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Tap \"BACK HOME\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697281845256,
+      "stop": 1697281845256
+    },
+    {
+      "name": "Tap \"By.xpath: //android.view.ViewGroup[@content-desc=\"test-Menu\"]/android.view.ViewGroup/android.widget.ImageView\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697281846608,
+      "stop": 1697281846608
+    },
+    {
+      "name": "Tap \"By.xpath: //android.view.ViewGroup[@content-desc=\"test-LOGOUT\"]\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697281848625,
+      "stop": 1697281848625
+    }
+  ],
+  "attachments": [
+    {
+      "name": "SHAFT Engine Logs - Current Method log: logOut",
+      "source": "2a106b77-7e2e-4423-893f-c87f4190ea99-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1697281842714,
+  "stop": 1697281853679
+}
