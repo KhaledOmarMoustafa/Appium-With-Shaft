@@ -1,2 +1,44 @@
 # Appium-With-Shaft
-Automate Testing Scripts using Appium Framework on android device Using UIAutomator2 And SHAFT Engine on a mobile application
+
+Automate Test Scripts using Appium Framework & UIAutomator2 on android device on SWAGLABS Application
+
+And Java Programming Language , Selenium Frameworks, SHAFT Engine And TestNG Assertion In this project im testing the main functions of an ECommerce Application called SwagLabs .
+
+
+The Used Tools & Frameworks: 
+
+1-Appium Framework for Mobile Automation Testing.
+
+2-UIAutomator2.
+
+3-Selenium. 
+
+4-SHAFT Engine. 
+
+5-TestNG. 
+
+6-Java Programming Language.  
+
+7-OOP Concepts.
+
+8-Page Object Model Design Pattern (POM).
+
+9-Allure Report.
+
+
+
+The Executed Test Cases Are Generated in order as Follows:
+
+1-Run the android emulator
+
+2-Install the application on the device and run the application 
+
+3-Successful Login using a valid username and password 
+
+4-Add a number of items to the shopping cart 
+
+5-Enter the shipping details
+
+6-Complete the order 
+
+7-Close the browser
