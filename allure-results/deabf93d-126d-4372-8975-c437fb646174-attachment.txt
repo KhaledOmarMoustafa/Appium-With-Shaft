@@ -1,0 +1,20 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 6' test cases in the current suite                                        
+                                                 Test Method: 'org.example.Runner.PreRequisites'                                                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Setting "mobile_automationName" property with "UIAutomator2". @17-10-2023 22:00:04.0951 PM
+[ReportManager] Setting "targetOperatingSystem" property with "Android". @17-10-2023 22:00:04.0954 PM
+[ReportManager] Setting "executionAddress" property with "localhost:4723". @17-10-2023 22:00:04.0955 PM
+[ReportManager] Setting "browserStack.deviceName" property with "DeviceOne". @17-10-2023 22:00:04.0960 PM
+[ReportManager] Setting "mobile_app" property with "src/test/resources/testDataFiles/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk". @17-10-2023 22:00:04.0962 PM
+[ReportManager] Setting "autoMaximizeBrowserWindow" property with "false". @17-10-2023 22:00:04.0976 PM
+[ReportManager] Setting "mobile_platformName" property with "android". @17-10-2023 22:00:04.0978 PM
+[ReportManager] Attempting to run remotely on: "Android | http://localhost:4723/". @17-10-2023 22:00:04.0992 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk"". @17-10-2023 22:00:04.0998 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk"". @17-10-2023 22:00:04.0998 PM
+[ReportManager] Capabilities {appium:allowTestPackages: true, appium:app: C:\Users\khaled\Downloads\M..., appium:appWaitActivity: *, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:clearDeviceLogsOnStart: true, appium:disableWindowAnimation: true, appium:enableWebviewDetailsCollection: true, appium:enforceAppInstall: false, appium:forceAppLaunch: true, appium:fullReset: true, appium:ignoreHiddenApiPolicyError: true, appium:isHeadless: true, appium:noSign: true, appium:platformName: android, appium:printPageSourceOnFindFailure: true, appium:showChromedriverLog: true} @17-10-2023 22:00:05.0014 PM
+[ReportManager] Attempting to instantiate remote driver instance for up to 10min. @17-10-2023 22:00:05.0026 PM
+[ReportManager] Successfully instantiated remote driver instance. @17-10-2023 22:00:16.0128 PM
+[ReportManager] Successfully Opened "Native android app". @17-10-2023 22:00:16.0128 PM

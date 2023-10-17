@@ -1,0 +1,148 @@
+{
+  "uuid": "b21b0e06-4846-4463-8d2b-3ea9c9ada932",
+  "historyId": "1fdacf671bcabe95cecab4154d1c512a",
+  "fullName": "org.example.Runner.EnterLoginDetails",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "testClass",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "testMethod",
+      "value": "EnterLoginDetails"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "C:\\Users\\khaled\\Downloads\\MobileShaft1"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "host",
+      "value": "Bugz"
+    },
+    {
+      "name": "thread",
+      "value": "13704@Bugz.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "EnterLoginDetails",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Type \"locked_out_user\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Username\"]\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697569217709,
+      "stop": 1697569217709
+    },
+    {
+      "name": "Type \"secret_sauce\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Password\"]\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697569218925,
+      "stop": 1697569218925
+    },
+    {
+      "name": "Tap \"LOGIN\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697569220023,
+      "stop": 1697569220023
+    },
+    {
+      "name": "Get text \"Sorry, this user has been locked out.\" from \"By.xpath: //android.view.ViewGroup[@content-desc=\"test-Error message\"]/android.widget.TextView\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697569220742,
+      "stop": 1697569220742
+    },
+    {
+      "name": "Is element displayed \"By.xpath: //android.view.ViewGroup[@content-desc=\"test-Error message\"]/android.widget.TextView\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697569223122,
+      "stop": 1697569223122
+    },
+    {
+      "name": "Type \"standard_user\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Username\"]\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697569226061,
+      "stop": 1697569226061
+    },
+    {
+      "name": "Type \"secret_sauce\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Password\"]\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697569227248,
+      "stop": 1697569227248
+    },
+    {
+      "name": "Tap \"LOGIN\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697569228067,
+      "stop": 1697569228067
+    }
+  ],
+  "attachments": [
+    {
+      "name": "SHAFT Engine Logs - Current Method log: EnterLoginDetails",
+      "source": "26325c6b-ba90-425d-9c9d-e19a416d0c3c-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1697569216271,
+  "stop": 1697569228069
+}

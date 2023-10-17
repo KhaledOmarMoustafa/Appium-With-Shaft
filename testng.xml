@@ -2,7 +2,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite" >
     <test verbose="2" preserve-order="true" name="C:\Users\khaled\Downloads\MobileShaft1">
-        <!-- <parameter name="browser" value="firefox"></parameter>-->
         <classes>
             <class name="org.example.Runner"></class>
         </classes>

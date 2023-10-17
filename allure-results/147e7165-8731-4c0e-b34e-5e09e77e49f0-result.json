@@ -1,0 +1,113 @@
+{
+  "uuid": "147e7165-8731-4c0e-b34e-5e09e77e49f0",
+  "historyId": "5f780ea9ea61f151eec992c4ef7ae503",
+  "fullName": "org.example.Runner.PreRequisites",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "testClass",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "testMethod",
+      "value": "PreRequisites"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "C:\\Users\\khaled\\Downloads\\MobileShaft1"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "host",
+      "value": "Bugz"
+    },
+    {
+      "name": "thread",
+      "value": "13704@Bugz.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "PreRequisites",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Attempting to run remotely on: \"Android | http://localhost:4723/\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697569204997,
+      "stop": 1697569204997
+    },
+    {
+      "name": "Capabilities {appium:allowTestPackages: true, appium:app: C:\\Users\\khaled\\Downloads\\M..., appium:appWaitActivity: *, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:clearDeviceLogsOnStart: true, appium:disableWindowAnimation: true, appium:enableWebviewDetailsCollection: true, appium:enforceAppInstall: false, appium:forceAppLaunch: true, appium:fullReset: true, appium:ignoreHiddenApiPolicyError: true, appium:isHeadless: true, appium:noSign: true, appium:platformName: android, appium:printPageSourceOnFindFailure: true, appium:showChromedriverLog: true}",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697569205014,
+      "stop": 1697569205014
+    },
+    {
+      "name": "Setting up remote driver instance",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [
+        {
+          "name": "capabilities",
+          "value": "Capabilities {appium:allowTestPackages: true, appium:app: C:\\Users\\khaled\\Downloads\\M..., appium:appWaitActivity: *, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:clearDeviceLogsOnStart: true, appium:disableWindowAnimation: true, appium:enableWebviewDetailsCollection: true, appium:enforceAppInstall: false, appium:forceAppLaunch: true, appium:fullReset: true, appium:ignoreHiddenApiPolicyError: true, appium:isHeadless: true, appium:noSign: true, appium:platformName: android, appium:printPageSourceOnFindFailure: true, appium:showChromedriverLog: true}"
+        }
+      ],
+      "start": 1697569205023,
+      "stop": 1697569216128
+    },
+    {
+      "name": "Successfully Opened \"Native android app\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697569216128,
+      "stop": 1697569216128
+    }
+  ],
+  "attachments": [
+    {
+      "name": "SHAFT Engine Logs - Current Method log: PreRequisites",
+      "source": "deabf93d-126d-4372-8975-c437fb646174-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1697569204934,
+  "stop": 1697569216150
+}

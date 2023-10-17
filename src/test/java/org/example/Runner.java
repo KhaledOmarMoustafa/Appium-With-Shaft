@@ -26,7 +26,7 @@ public class Runner {
     }
 
     @Test(priority = 2)
-    public void EnterLoginDetails() {
+    public void EnterLoginDetails() throws InterruptedException {
         l.login();
     }
 
