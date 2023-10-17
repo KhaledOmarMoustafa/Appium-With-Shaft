@@ -33,12 +33,14 @@ The Executed Test Cases Are Generated in order as Follows:
 
 2-Install the application on the device and run the application 
 
-3-Successful Login using a valid username and password 
+3-Try to login with a locked out user name.
 
-4-Add a number of items to the shopping cart 
+4-Successful Login using a valid username and password 
 
-5-Enter the shipping details
+5-Add a number of items to the shopping cart 
 
-6-Complete the order 
+6-Enter the shipping details
 
-7-Close the browser
+7-Complete the order 
+
+8-Close the application
