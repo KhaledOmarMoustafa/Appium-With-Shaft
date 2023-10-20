@@ -29,6 +29,8 @@ The Used Tools & Frameworks:
 
 
 
+
+
 The Executed Test Cases Are Generated in order as Follows:
 
 1-Run the android emulator
