@@ -5,7 +5,7 @@ Automate Test Scripts using Appium Framework & UIAutomator2 on android device on
 And Java Programming Language , Selenium Frameworks, SHAFT Engine And TestNG Assertion In this project im testing the main functions of an ECommerce Application called SwagLabs .
 
 
-The Used Tools & Frameworks: 
+**The Used Tools & Frameworks: 
 
 1-Appium Framework for Mobile Automation Testing.
 
@@ -29,9 +29,7 @@ The Used Tools & Frameworks:
 
 
 
-
-
-The Executed Test Cases Are Generated in order as Follows:
+**The Executed Test Cases Are Generated in order as Follows:
 
 1-Run the android emulator
 
