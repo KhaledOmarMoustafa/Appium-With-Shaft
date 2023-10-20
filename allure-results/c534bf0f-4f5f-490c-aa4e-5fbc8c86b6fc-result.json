@@ -1,5 +1,5 @@
 {
-  "uuid": "147e7165-8731-4c0e-b34e-5e09e77e49f0",
+  "uuid": "c534bf0f-4f5f-490c-aa4e-5fbc8c86b6fc",
   "historyId": "5f780ea9ea61f151eec992c4ef7ae503",
   "fullName": "org.example.Runner.PreRequisites",
   "labels": [
@@ -33,7 +33,7 @@
     },
     {
       "name": "thread",
-      "value": "13704@Bugz.main(1)"
+      "value": "19584@Bugz.main(1)"
     },
     {
       "name": "framework",
@@ -61,8 +61,8 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697569204997,
-      "stop": 1697569204997
+      "start": 1697798797722,
+      "stop": 1697798797722
     },
     {
       "name": "Capabilities {appium:allowTestPackages: true, appium:app: C:\\Users\\khaled\\Downloads\\M..., appium:appWaitActivity: *, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:clearDeviceLogsOnStart: true, appium:disableWindowAnimation: true, appium:enableWebviewDetailsCollection: true, appium:enforceAppInstall: false, appium:forceAppLaunch: true, appium:fullReset: true, appium:ignoreHiddenApiPolicyError: true, appium:isHeadless: true, appium:noSign: true, appium:platformName: android, appium:printPageSourceOnFindFailure: true, appium:showChromedriverLog: true}",
@@ -71,8 +71,8 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697569205014,
-      "stop": 1697569205014
+      "start": 1697798797768,
+      "stop": 1697798797768
     },
     {
       "name": "Setting up remote driver instance",
@@ -86,8 +86,8 @@
           "value": "Capabilities {appium:allowTestPackages: true, appium:app: C:\\Users\\khaled\\Downloads\\M..., appium:appWaitActivity: *, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:clearDeviceLogsOnStart: true, appium:disableWindowAnimation: true, appium:enableWebviewDetailsCollection: true, appium:enforceAppInstall: false, appium:forceAppLaunch: true, appium:fullReset: true, appium:ignoreHiddenApiPolicyError: true, appium:isHeadless: true, appium:noSign: true, appium:platformName: android, appium:printPageSourceOnFindFailure: true, appium:showChromedriverLog: true}"
         }
       ],
-      "start": 1697569205023,
-      "stop": 1697569216128
+      "start": 1697798797785,
+      "stop": 1697798869658
     },
     {
       "name": "Successfully Opened \"Native android app\".",
@@ -96,18 +96,18 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697569216128,
-      "stop": 1697569216128
+      "start": 1697798869667,
+      "stop": 1697798869668
     }
   ],
   "attachments": [
     {
       "name": "SHAFT Engine Logs - Current Method log: PreRequisites",
-      "source": "deabf93d-126d-4372-8975-c437fb646174-attachment.txt",
+      "source": "7cd1fe1b-ce76-41e3-84c6-284763d5638b-attachment.txt",
       "type": "text/plain"
     }
   ],
   "parameters": [],
-  "start": 1697569204934,
-  "stop": 1697569216150
+  "start": 1697798797613,
+  "stop": 1697798869847
 }

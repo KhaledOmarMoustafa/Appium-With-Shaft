@@ -1,6 +1,6 @@
 {
-  "uuid": "b21b0e06-4846-4463-8d2b-3ea9c9ada932",
-  "historyId": "1fdacf671bcabe95cecab4154d1c512a",
+  "uuid": "57b720fa-75d1-43fb-9e23-b410cefe2b49",
+  "historyId": "3aa1c6ae2cf544049b5bce0e958f5242",
   "fullName": "org.example.Runner.EnterLoginDetails",
   "labels": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "name": "thread",
-      "value": "13704@Bugz.main(1)"
+      "value": "19584@Bugz.main(1)"
     },
     {
       "name": "framework",
@@ -61,8 +61,8 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697569217709,
-      "stop": 1697569217709
+      "start": 1697798878510,
+      "stop": 1697798878510
     },
     {
       "name": "Type \"secret_sauce\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Password\"]\".",
@@ -71,8 +71,8 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697569218925,
-      "stop": 1697569218925
+      "start": 1697798879953,
+      "stop": 1697798879953
     },
     {
       "name": "Tap \"LOGIN\".",
@@ -81,18 +81,8 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697569220023,
-      "stop": 1697569220023
-    },
-    {
-      "name": "Get text \"Sorry, this user has been locked out.\" from \"By.xpath: //android.view.ViewGroup[@content-desc=\"test-Error message\"]/android.widget.TextView\".",
-      "status": "passed",
-      "stage": "finished",
-      "steps": [],
-      "attachments": [],
-      "parameters": [],
-      "start": 1697569220742,
-      "stop": 1697569220742
+      "start": 1697798882420,
+      "stop": 1697798882420
     },
     {
       "name": "Is element displayed \"By.xpath: //android.view.ViewGroup[@content-desc=\"test-Error message\"]/android.widget.TextView\".",
@@ -101,18 +91,18 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697569223122,
-      "stop": 1697569223122
+      "start": 1697798885761,
+      "stop": 1697798885761
     },
     {
-      "name": "Type \"standard_user\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Username\"]\".",
+      "name": "Type \"locked_out_user\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Username\"]\".",
       "status": "passed",
       "stage": "finished",
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697569226061,
-      "stop": 1697569226061
+      "start": 1697798889074,
+      "stop": 1697798889074
     },
     {
       "name": "Type \"secret_sauce\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Password\"]\".",
@@ -121,8 +111,8 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697569227248,
-      "stop": 1697569227248
+      "start": 1697798890995,
+      "stop": 1697798890995
     },
     {
       "name": "Tap \"LOGIN\".",
@@ -131,18 +121,27 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697569228067,
-      "stop": 1697569228067
+      "start": 1697798892596,
+      "stop": 1697798892596
     }
   ],
   "attachments": [
     {
       "name": "SHAFT Engine Logs - Current Method log: EnterLoginDetails",
-      "source": "26325c6b-ba90-425d-9c9d-e19a416d0c3c-attachment.txt",
+      "source": "538ab658-f267-4a7b-9842-58a4e8b1fe44-attachment.txt",
       "type": "text/plain"
     }
   ],
-  "parameters": [],
-  "start": 1697569216271,
-  "stop": 1697569228069
+  "parameters": [
+    {
+      "name": "arg1",
+      "value": "secret_sauce"
+    },
+    {
+      "name": "arg0",
+      "value": "locked_out_user"
+    }
+  ],
+  "start": 1697798874037,
+  "stop": 1697798892670
 }

@@ -1,6 +1,10 @@
 package org.example;
 
+import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
+
+import java.io.IOException;
 
 public class Runner {
     private final PreRequisites pre;
@@ -25,9 +29,9 @@ public class Runner {
         pre.pre();
     }
 
-    @Test(priority = 2)
-    public void EnterLoginDetails() throws InterruptedException {
-        l.login();
+    @Test(priority = 2, dataProvider = "readTheSheet")
+    public void EnterLoginDetails(String userName, String passWord) throws InterruptedException {
+        l.login(userName, passWord);
     }
 
     @Test(priority = 3)
@@ -35,9 +39,9 @@ public class Runner {
         add.addItems();
     }
 
-    @Test(priority = 4)
-    public void EnterShippingDetails() throws InterruptedException {
-        enter.details();
+    @Test(priority = 4, dataProvider = "readTheSecondSheet")
+    public void EnterShippingDetails(String firstName, String lastName, String postalCode) throws InterruptedException {
+        enter.details(firstName, lastName, postalCode);
     }
 
     @Test(priority = 5)
@@ -49,5 +53,20 @@ public class Runner {
     public void logOut() throws InterruptedException {
         lo.logOut();
     }
+
+    @DataProvider(name = "readTheSheet")
+    public String[][] readTheSheet() throws IOException, InvalidFormatException {
+        Read_Data rd = new Read_Data();
+        return rd.read_Data();
+
+    }
+
+    @DataProvider(name = "readTheSecondSheet")
+    public String[][] readTheSecondSheet() throws IOException, InvalidFormatException {
+        Read_Data rd = new Read_Data();
+        return rd.read_DataTwo();
+
+    }
+
 
 }

@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 public class EnterDetails {
 
 
-    public void details() throws InterruptedException {
+    public void details(String fname, String lname, String pCode) throws InterruptedException {
 
         AddItemsToTheCart.endY = AddItemsToTheCart.startY - 2000;
 
@@ -28,13 +28,13 @@ public class EnterDetails {
         PreRequisites.driver.element().assertThat(By.xpath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.TextView")).equals(ActualcheckOutInformation);
 
         By firstName = By.xpath("//android.widget.EditText[@content-desc=\"test-First Name\"]\n");
-        PreRequisites.driver.element().type(firstName, "khaled");
+        PreRequisites.driver.element().type(firstName, fname);
 
         By lastName = By.xpath("//android.widget.EditText[@content-desc=\"test-Last Name\"]\n");
-        PreRequisites.driver.element().type(lastName, "omar");
+        PreRequisites.driver.element().type(lastName, lname);
 
         By postalCode = By.xpath("//android.widget.EditText[@content-desc=\"test-Zip/Postal Code\"]\n");
-        PreRequisites.driver.element().type(postalCode, "122335");
+        PreRequisites.driver.element().type(postalCode, pCode);
 
         By clickContinue = By.xpath("//android.view.ViewGroup[@content-desc=\"test-CONTINUE\"]/android.widget.TextView\n");
         PreRequisites.driver.element().click(clickContinue);

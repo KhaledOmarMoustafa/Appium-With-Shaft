@@ -4,12 +4,12 @@ import org.openqa.selenium.By;
 
 public class Login {
 
-    public void login() throws InterruptedException {
+    public void login(String userName, String pword) throws InterruptedException {
         By invalidUser = By.xpath("//android.widget.EditText[@content-desc=\"test-Username\"]\n");
-        PreRequisites.driver.element().type(invalidUser, "locked_out_user");
+        PreRequisites.driver.element().type(invalidUser, userName);
 
         By invalidUserpassWord = By.xpath("//android.widget.EditText[@content-desc=\"test-Password\"]\n");
-        PreRequisites.driver.element().type(invalidUserpassWord, "secret_sauce");
+        PreRequisites.driver.element().type(invalidUserpassWord, pword);
 
         By loginwithInvalidUser = By.xpath("//android.view.ViewGroup[@content-desc=\"test-LOGIN\"]/android.widget.TextView\n");
         PreRequisites.driver.element().click(loginwithInvalidUser);
@@ -31,11 +31,11 @@ public class Login {
             Thread.sleep(1000);
 
 
-            PreRequisites.driver.element().type(invalidUser, "standard_user");
+            PreRequisites.driver.element().type(invalidUser, userName);
 
 
             //By passWord = By.xpath("//android.widget.EditText[@content-desc=\"test-Password\"]\n");
-            PreRequisites.driver.element().type(invalidUserpassWord, "secret_sauce");
+            PreRequisites.driver.element().type(invalidUserpassWord, pword);
 
             By login = By.xpath("//android.view.ViewGroup[@content-desc=\"test-LOGIN\"]/android.widget.TextView\n");
             PreRequisites.driver.element().click(login);
