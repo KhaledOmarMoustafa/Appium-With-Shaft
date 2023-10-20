@@ -1,0 +1,225 @@
+[INFO ] 2023-10-20 18:26:44.388 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.7.3.20230929[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:26:46.334 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2023-10-20 18:26:46.335 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-10-20 18:26:46.648 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-10-20 18:26:47.302 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2023-10-20 18:26:47.593 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2023-10-20 18:26:47.599 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO ] 2023-10-20 18:26:47.603 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.603 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.603 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.604 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.604 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.604 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.604 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.605 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.605 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.605 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.605 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.605 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.606 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.606 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.615 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.616 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.616 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.616 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.620 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2023-10-20 18:26:47.635 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+[INFO ] 2023-10-20 18:26:47.636 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.637 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.637 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.637 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.638 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.638 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.638 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.638 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.639 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.639 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.639 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.639 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.640 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.640 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.640 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.641 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.641 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.641 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.644 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2023-10-20 18:26:47.645 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.645 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.645 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.652 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[INFO ] 2023-10-20 18:26:47.655 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO ] 2023-10-20 18:26:47.658 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.658 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.658 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.660 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-10-20 18:26:47.670 [main] Utils - [TestNG] Running:
+  C:\Users\khaled\Downloads\MobileShaft1\testng.xml
+
+[INFO ] 2023-10-20 18:26:47.715 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:26:47.931 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-10-20 18:26:47.939 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-10-20 18:26:48.079 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+[INFO ] 2023-10-20 18:26:48.156 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 6' test cases in the current suite                                        
+                                                 Test Method: 'org.example.Runner.PreRequisites'                                                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:26:48.175 [main] ReportManager - Setting "mobile_automationName" property with "UIAutomator2".
+[INFO ] 2023-10-20 18:26:48.178 [main] ReportManager - Setting "targetOperatingSystem" property with "Android".
+[INFO ] 2023-10-20 18:26:48.180 [main] ReportManager - Setting "executionAddress" property with "localhost:4723".
+[INFO ] 2023-10-20 18:26:48.184 [main] ReportManager - Setting "browserStack.deviceName" property with "DeviceOne".
+[INFO ] 2023-10-20 18:26:48.187 [main] ReportManager - Setting "mobile_app" property with "src/test/resources/testDataFiles/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk".
+[INFO ] 2023-10-20 18:26:48.206 [main] ReportManager - Setting "autoMaximizeBrowserWindow" property with "false".
+[INFO ] 2023-10-20 18:26:48.210 [main] ReportManager - Setting "mobile_platformName" property with "android".
+[INFO ] 2023-10-20 18:26:48.245 [main] ReportManager - Attempting to run remotely on: "Android | http://localhost:4723/".
+[INFO ] 2023-10-20 18:26:48.248 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk"".
+[INFO ] 2023-10-20 18:26:48.248 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk"".
+[INFO ] 2023-10-20 18:26:48.266 [main] ReportManager - Capabilities {appium:allowTestPackages: true, appium:app: C:\Users\khaled\Downloads\M..., appium:appWaitActivity: *, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:clearDeviceLogsOnStart: true, appium:disableWindowAnimation: true, appium:enableWebviewDetailsCollection: true, appium:enforceAppInstall: false, appium:forceAppLaunch: true, appium:fullReset: true, appium:ignoreHiddenApiPolicyError: true, appium:isHeadless: true, appium:noSign: true, appium:platformName: android, appium:printPageSourceOnFindFailure: true, appium:showChromedriverLog: true}
+[INFO ] 2023-10-20 18:26:48.277 [main] ReportManager - Attempting to instantiate remote driver instance for up to 10min.
+[INFO ] 2023-10-20 18:27:13.440 [main] ReportManager - Successfully instantiated remote driver instance.
+[INFO ] 2023-10-20 18:27:13.443 [main] ReportManager - Successfully Opened "Native android app".
+[INFO ] 2023-10-20 18:27:13.513 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: PreRequisites'
+[INFO ] 2023-10-20 18:27:13.514 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                      Finished Execution of Test Method: 'org.example.Runner.PreRequisites'                                      
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[DEBUG] 2023-10-20 18:27:14.394 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-20 18:27:14.398 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-20 18:27:14.400 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-20 18:27:14.402 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-20 18:27:15.340 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-20 18:27:15.353 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-10-20 18:27:15.489 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 6' test cases in the current suite                                        
+                                               Test Method: 'org.example.Runner.EnterLoginDetails'                                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:27:17.404 [main] ReportManager - Type "locked_out_user" into "By.xpath: //android.widget.EditText[@content-desc="test-Username"]".
+[INFO ] 2023-10-20 18:27:19.931 [main] ReportManager - Type "secret_sauce" into "By.xpath: //android.widget.EditText[@content-desc="test-Password"]".
+[INFO ] 2023-10-20 18:27:21.248 [main] ReportManager - Tap "LOGIN".
+[INFO ] 2023-10-20 18:27:23.252 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EnterLoginDetails'
+[INFO ] 2023-10-20 18:27:23.252 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                    Finished Execution of Test Method: 'org.example.Runner.EnterLoginDetails'                                    
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:27:23.259 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 6' test cases in the current suite                                        
+                                               Test Method: 'org.example.Runner.EnterLoginDetails'                                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:27:24.299 [main] ReportManager - Type "standard_user" into "By.xpath: //android.widget.EditText[@content-desc="test-Username"]".
+[INFO ] 2023-10-20 18:27:25.595 [main] ReportManager - Type "secret_sauce" into "By.xpath: //android.widget.EditText[@content-desc="test-Password"]".
+[INFO ] 2023-10-20 18:27:26.830 [main] ReportManager - Tap "LOGIN".
+[INFO ] 2023-10-20 18:27:28.845 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EnterLoginDetails'
+[INFO ] 2023-10-20 18:27:28.845 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                    Finished Execution of Test Method: 'org.example.Runner.EnterLoginDetails'                                    
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:27:28.852 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 6' test cases in the current suite                                        
+                                                Test Method: 'org.example.Runner.addItemsToCart'                                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:27:30.598 [main] ReportManager - Tap "ADD TO CART".
+[INFO ] 2023-10-20 18:27:31.890 [main] ReportManager - Tap "By.xpath: //android.view.ViewGroup[@content-desc="test-Toggle"]/android.widget.ImageView".
+[INFO ] 2023-10-20 18:27:56.265 [main] ReportManager - Tap "By.xpath: //android.view.ViewGroup[@content-desc="test-Modal Selector Button"]/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView".
+[INFO ] 2023-10-20 18:27:58.786 [main] ReportManager - Tap "Price (low to high)".
+[INFO ] 2023-10-20 18:27:58.842 [main] ReportManager - 540
+[INFO ] 2023-10-20 18:27:58.843 [main] ReportManager - 928
+[INFO ] 2023-10-20 18:28:02.994 [main] ReportManager - Tap "+".
+[INFO ] 2023-10-20 18:28:05.495 [main] ReportManager - Tap "By.xpath: //android.view.ViewGroup[@content-desc="test-Cart"]/android.view.ViewGroup/android.widget.ImageView".
+[INFO ] 2023-10-20 18:28:06.528 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: addItemsToCart'
+[INFO ] 2023-10-20 18:28:06.529 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                     Finished Execution of Test Method: 'org.example.Runner.addItemsToCart'                                     
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[DEBUG] 2023-10-20 18:28:06.593 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-20 18:28:06.596 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-20 18:28:06.597 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2023-10-20 18:28:06.597 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-10-20 18:28:06.645 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2023-10-20 18:28:06.647 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2023-10-20 18:28:06.757 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 6' test cases in the current suite                                        
+                                             Test Method: 'org.example.Runner.EnterShippingDetails'                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:28:12.333 [main] ReportManager - Tap "CHECKOUT".
+[INFO ] 2023-10-20 18:28:14.971 [main] ReportManager - Type "khaled" into "By.xpath: //android.widget.EditText[@content-desc="test-First Name"]".
+[INFO ] 2023-10-20 18:28:16.891 [main] ReportManager - Type "Omar" into "By.xpath: //android.widget.EditText[@content-desc="test-Last Name"]".
+[INFO ] 2023-10-20 18:28:18.246 [main] ReportManager - Type "1223344.0" into "By.xpath: //android.widget.EditText[@content-desc="test-Zip/Postal Code"]".
+[INFO ] 2023-10-20 18:28:19.935 [main] ReportManager - Tap "CONTINUE".
+[INFO ] 2023-10-20 18:28:19.937 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: EnterShippingDetails'
+[INFO ] 2023-10-20 18:28:19.938 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                  Finished Execution of Test Method: 'org.example.Runner.EnterShippingDetails'                                  
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:28:19.944 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '6 out of 6' test cases in the current suite                                        
+                                                 Test Method: 'org.example.Runner.checkOutItems'                                                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:28:21.086 [main] ReportManager - 9.99
+[INFO ] 2023-10-20 18:28:25.745 [main] ReportManager - 49.99
+[INFO ] 2023-10-20 18:28:26.372 [main] ReportManager - 15.99
+[INFO ] 2023-10-20 18:28:26.372 [main] ReportManager - 75.97
+[INFO ] 2023-10-20 18:28:31.670 [main] ReportManager - 75.97
+[INFO ] 2023-10-20 18:28:46.993 [main] ReportManager - Tap "FINISH".
+[INFO ] 2023-10-20 18:28:47.070 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: checkOutItems'
+[INFO ] 2023-10-20 18:28:47.079 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                      Finished Execution of Test Method: 'org.example.Runner.checkOutItems'                                      
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:28:47.258 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '7 out of 6' test cases in the current suite                                        
+                                                    Test Method: 'org.example.Runner.logOut'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:28:53.548 [main] ReportManager - Tap "BACK HOME".
+[INFO ] 2023-10-20 18:28:56.380 [main] ReportManager - Tap "By.xpath: //android.view.ViewGroup[@content-desc="test-Menu"]/android.view.ViewGroup/android.widget.ImageView".
+[INFO ] 2023-10-20 18:28:59.128 [main] ReportManager - Tap "By.xpath: //android.view.ViewGroup[@content-desc="test-LOGOUT"]".
+[INFO ] 2023-10-20 18:29:04.291 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: logOut'
+[INFO ] 2023-10-20 18:29:04.291 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                         Finished Execution of Test Method: 'org.example.Runner.logOut'                                         
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:29:04.579 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-10-20 18:29:04.589 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2023-10-20 18:29:04.593 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-10-20 18:29:04.593 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

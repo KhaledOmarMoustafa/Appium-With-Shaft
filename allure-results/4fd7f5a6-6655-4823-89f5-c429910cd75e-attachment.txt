@@ -1,0 +1,9 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 6' test cases in the current suite                                        
+                                               Test Method: 'org.example.Runner.EnterLoginDetails'                                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Type "locked_out_user" into "By.xpath: //android.widget.EditText[@content-desc="test-Username"]". @20-10-2023 18:27:17.0404 PM
+[ReportManager] Type "secret_sauce" into "By.xpath: //android.widget.EditText[@content-desc="test-Password"]". @20-10-2023 18:27:19.0930 PM
+[ReportManager] Tap "LOGIN". @20-10-2023 18:27:21.0248 PM

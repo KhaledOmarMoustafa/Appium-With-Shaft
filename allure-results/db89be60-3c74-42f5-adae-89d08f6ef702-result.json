@@ -1,5 +1,5 @@
 {
-  "uuid": "57b720fa-75d1-43fb-9e23-b410cefe2b49",
+  "uuid": "db89be60-3c74-42f5-adae-89d08f6ef702",
   "historyId": "3aa1c6ae2cf544049b5bce0e958f5242",
   "fullName": "org.example.Runner.EnterLoginDetails",
   "labels": [
@@ -33,7 +33,7 @@
     },
     {
       "name": "thread",
-      "value": "19584@Bugz.main(1)"
+      "value": "18752@Bugz.main(1)"
     },
     {
       "name": "framework",
@@ -61,8 +61,8 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697798878510,
-      "stop": 1697798878510
+      "start": 1697815637405,
+      "stop": 1697815637405
     },
     {
       "name": "Type \"secret_sauce\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Password\"]\".",
@@ -71,8 +71,8 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697798879953,
-      "stop": 1697798879953
+      "start": 1697815639931,
+      "stop": 1697815639931
     },
     {
       "name": "Tap \"LOGIN\".",
@@ -81,54 +81,14 @@
       "steps": [],
       "attachments": [],
       "parameters": [],
-      "start": 1697798882420,
-      "stop": 1697798882420
-    },
-    {
-      "name": "Is element displayed \"By.xpath: //android.view.ViewGroup[@content-desc=\"test-Error message\"]/android.widget.TextView\".",
-      "status": "passed",
-      "stage": "finished",
-      "steps": [],
-      "attachments": [],
-      "parameters": [],
-      "start": 1697798885761,
-      "stop": 1697798885761
-    },
-    {
-      "name": "Type \"locked_out_user\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Username\"]\".",
-      "status": "passed",
-      "stage": "finished",
-      "steps": [],
-      "attachments": [],
-      "parameters": [],
-      "start": 1697798889074,
-      "stop": 1697798889074
-    },
-    {
-      "name": "Type \"secret_sauce\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Password\"]\".",
-      "status": "passed",
-      "stage": "finished",
-      "steps": [],
-      "attachments": [],
-      "parameters": [],
-      "start": 1697798890995,
-      "stop": 1697798890995
-    },
-    {
-      "name": "Tap \"LOGIN\".",
-      "status": "passed",
-      "stage": "finished",
-      "steps": [],
-      "attachments": [],
-      "parameters": [],
-      "start": 1697798892596,
-      "stop": 1697798892596
+      "start": 1697815641249,
+      "stop": 1697815641249
     }
   ],
   "attachments": [
     {
       "name": "SHAFT Engine Logs - Current Method log: EnterLoginDetails",
-      "source": "538ab658-f267-4a7b-9842-58a4e8b1fe44-attachment.txt",
+      "source": "4fd7f5a6-6655-4823-89f5-c429910cd75e-attachment.txt",
       "type": "text/plain"
     }
   ],
@@ -142,6 +102,6 @@
       "value": "locked_out_user"
     }
   ],
-  "start": 1697798874037,
-  "stop": 1697798892670
+  "start": 1697815635489,
+  "stop": 1697815643253
 }

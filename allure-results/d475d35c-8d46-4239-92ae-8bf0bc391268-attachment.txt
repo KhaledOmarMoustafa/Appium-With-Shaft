@@ -1,0 +1,9 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '7 out of 6' test cases in the current suite                                        
+                                                    Test Method: 'org.example.Runner.logOut'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Tap "BACK HOME". @20-10-2023 18:28:53.0548 PM
+[ReportManager] Tap "By.xpath: //android.view.ViewGroup[@content-desc="test-Menu"]/android.view.ViewGroup/android.widget.ImageView". @20-10-2023 18:28:56.0378 PM
+[ReportManager] Tap "By.xpath: //android.view.ViewGroup[@content-desc="test-LOGOUT"]". @20-10-2023 18:28:59.0128 PM

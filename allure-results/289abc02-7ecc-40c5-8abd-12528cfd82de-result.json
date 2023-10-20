@@ -1,0 +1,131 @@
+{
+  "uuid": "289abc02-7ecc-40c5-8abd-12528cfd82de",
+  "historyId": "9fcfa327f4e369421407a955b7b018d7",
+  "fullName": "org.example.Runner.EnterShippingDetails",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "testClass",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "testMethod",
+      "value": "EnterShippingDetails"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "C:\\Users\\khaled\\Downloads\\MobileShaft1"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "host",
+      "value": "Bugz"
+    },
+    {
+      "name": "thread",
+      "value": "18752@Bugz.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "EnterShippingDetails",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Tap \"CHECKOUT\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697815692334,
+      "stop": 1697815692334
+    },
+    {
+      "name": "Type \"khaled\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-First Name\"]\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697815694971,
+      "stop": 1697815694971
+    },
+    {
+      "name": "Type \"Omar\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Last Name\"]\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697815696892,
+      "stop": 1697815696892
+    },
+    {
+      "name": "Type \"1223344.0\" into \"By.xpath: //android.widget.EditText[@content-desc=\"test-Zip/Postal Code\"]\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697815698247,
+      "stop": 1697815698247
+    },
+    {
+      "name": "Tap \"CONTINUE\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697815699935,
+      "stop": 1697815699935
+    }
+  ],
+  "attachments": [
+    {
+      "name": "SHAFT Engine Logs - Current Method log: EnterShippingDetails",
+      "source": "c022f122-041b-4e4c-8da4-702b25df2433-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "arg2",
+      "value": "1223344.0"
+    },
+    {
+      "name": "arg1",
+      "value": "Omar"
+    },
+    {
+      "name": "arg0",
+      "value": "khaled"
+    }
+  ],
+  "start": 1697815686755,
+  "stop": 1697815699938
+}

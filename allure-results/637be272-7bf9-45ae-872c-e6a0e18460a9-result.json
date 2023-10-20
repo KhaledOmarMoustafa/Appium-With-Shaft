@@ -1,0 +1,128 @@
+{
+  "uuid": "637be272-7bf9-45ae-872c-e6a0e18460a9",
+  "historyId": "bd7b901d15dddb56501dcee2552e4757",
+  "fullName": "org.example.Runner.addItemsToCart",
+  "labels": [
+    {
+      "name": "package",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "testClass",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "testMethod",
+      "value": "addItemsToCart"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "C:\\Users\\khaled\\Downloads\\MobileShaft1"
+    },
+    {
+      "name": "subSuite",
+      "value": "org.example.Runner"
+    },
+    {
+      "name": "host",
+      "value": "Bugz"
+    },
+    {
+      "name": "thread",
+      "value": "18752@Bugz.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "addItemsToCart",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Tap \"ADD TO CART\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697815650599,
+      "stop": 1697815650599
+    },
+    {
+      "name": "Tap \"By.xpath: //android.view.ViewGroup[@content-desc=\"test-Toggle\"]/android.widget.ImageView\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697815651890,
+      "stop": 1697815651890
+    },
+    {
+      "name": "Tap \"By.xpath: //android.view.ViewGroup[@content-desc=\"test-Modal Selector Button\"]/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697815676266,
+      "stop": 1697815676266
+    },
+    {
+      "name": "Tap \"Price (low to high)\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697815678787,
+      "stop": 1697815678787
+    },
+    {
+      "name": "Tap \"+\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697815682995,
+      "stop": 1697815682995
+    },
+    {
+      "name": "Tap \"By.xpath: //android.view.ViewGroup[@content-desc=\"test-Cart\"]/android.view.ViewGroup/android.widget.ImageView\".",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1697815685496,
+      "stop": 1697815685496
+    }
+  ],
+  "attachments": [
+    {
+      "name": "SHAFT Engine Logs - Current Method log: addItemsToCart",
+      "source": "5088ebd6-eb0e-47e6-af93-b48d0cd392c7-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1697815648851,
+  "stop": 1697815686532
+}
