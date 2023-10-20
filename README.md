@@ -21,9 +21,11 @@ The Used Tools & Frameworks:
 
 7-OOP Concepts.
 
-8-Page Object Model Design Pattern (POM).
+8-DDT (Data Driven Testing) From An Excel File.
 
-9-Allure Report.
+9-Page Object Model Design Pattern (POM).
+
+10-Allure Report.
 
 
 
@@ -35,12 +37,14 @@ The Executed Test Cases Are Generated in order as Follows:
 
 3-Try to login with a locked out user name.
 
-4-Successful Login using a valid username and password 
+4-Unsuccessful Login using a locked-out user.
 
-5-Add a number of items to the shopping cart 
+5-Successful Login using a valid username and password 
 
-6-Enter the shipping details
+6-Add a number of items to the shopping cart 
 
-7-Complete the order 
+7-Enter the shipping details
 
-8-Close the application
+8-Complete the order 
+
+9-Close the application
